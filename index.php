@@ -169,7 +169,7 @@ fclose($fopen);
 	  </div>
 	 
 	</div>
-	<footer style="position:fixed;bottom:0;left:0;right:0;height:30px;">
+	<footer>
 		<b>&nbsp;Contributor: shauniop</b>
 	</footer>
 </body>
